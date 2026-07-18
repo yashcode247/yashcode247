@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=CS+Student+%40+University+at+Buffalo;AI+Researcher;Building+CodeOpoly;Building+BudgetWise-AI" alt="Typing SVG" />
   </a>
 </p>
+<img src="pokemon-hero.svg" width="100%" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yashsabale">
