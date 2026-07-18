@@ -43,7 +43,8 @@ An AI-assisted budget planning application.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashcode247&hide_border=true" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=yashcode247&show_icons=true&theme=default&hide_border=true&cache_seconds=1" />
 </p>
 
 ---
